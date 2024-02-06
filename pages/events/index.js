@@ -16,8 +16,6 @@ function AllEventsPage () {
     }
 
 
-
-
     return (
         <Fragment>
             <EventsSearch onSearch={findEventsHandler}/>
